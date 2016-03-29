@@ -1,0 +1,11 @@
+﻿body {
+    background-color: #171717;
+    color: white;
+    font-family: sans-serif;
+}
+
+#accentColorBox {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
