@@ -1,6 +1,11 @@
 # ColorValuesChangedBugRepro
 A bug repro for Windows.UI.ViewManagement.UISettings
 
+### Environment
+
+* Windows 10
+* Visual Studio 2015
+
 ### Repro process
 
 1. Deploy the app
