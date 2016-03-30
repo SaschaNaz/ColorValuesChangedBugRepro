@@ -15,3 +15,7 @@ Related discussions: [GitHub issue](https://github.com/Microsoft/Windows-univers
 3. Check if the app shows the changed one correctly
 4. If not it means the event is broken, but check if tapping Windows button fixes it
 5. The event is completely broken if nothing works
+
+### Screenshot
+
+![screenshot](Capture.PNG)
